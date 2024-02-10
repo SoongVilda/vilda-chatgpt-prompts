@@ -1,1 +1,1 @@
-# vilda-personal-prompts
+# My personal ChatGPT prompts 

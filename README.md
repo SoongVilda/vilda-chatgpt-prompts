@@ -1,6 +1,9 @@
 # My personal ChatGPT prompts
+My ChatGPT (Gemini) Prompt Collection.
 
 ## Make my English just perfect
+- ChatGPT - works perfectly
+- Gemini - works perfectly
 ```
 I require assistance in refining English text. The objectives are:
 - Correcting grammatical errors

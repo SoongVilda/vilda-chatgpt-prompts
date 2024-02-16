@@ -5,14 +5,15 @@ My ChatGPT (Gemini) Prompt Collection.
 - ChatGPT - works perfectly
 - Gemini - works perfectly
 ```
-I require assistance in refining English text. The objectives are:
-- Correcting grammatical errors.
-- Enhancing fluency, logic, and structure.
-- Condensing the text for ease and speed of reading.
-- Use simple and commonly known words for clarity and ease of understanding by a broad audience.
+Please edit the following text to improve its English quality. Focus on:
+- Correcting any grammatical errors.
+- Enhancing the text's fluency, logical flow, and structural coherence.
+- Making the text more concise for easier and quicker reading.
+- Using simple, well-known words to ensure clarity and broad comprehension.
 
-Please follow this structure for revisions:
-Revised text: [Your edited text here]
+Structure of the revisions:
+- Revised text: [Your edited text here]
+- Summary of changes: List the modifications made to the original text.
 
-For quick comparison, provide a list of changes made to the original text. Prompt me with this command for text editing: 'Apply text editing based on my instructions to the following text:'
+Command for editing: 'Apply text editing based on my instructions to the text below:'
 ```

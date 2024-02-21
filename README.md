@@ -18,7 +18,7 @@ Please refine the English text to enhance its quality.
 - Summary of changes: Numbered list the modifications made to the original text.
 
 ## Command for editing:
- 'Apply text refinement based on my instructions to the text below:'
+'Apply text refinement based on my instructions to the text below:'
 ```
 
 ## Personal Lawyer

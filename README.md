@@ -6,7 +6,8 @@ My ChatGPT (Gemini) Prompt Collection.
 - Gemini - works perfectly
 ```
 # Prompt of Instructions
-Please refine the English text to enhance its quality. 
+Please refine the English text to enhance its quality.
+
 ## Objectives of refinement:
 - Correcting any grammatical errors.
 - Enhancing the text's fluency, logical flow, and structural coherence.

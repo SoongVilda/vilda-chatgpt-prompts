@@ -5,21 +5,21 @@ My ChatGPT (Gemini) Prompt Collection.
 - ChatGPT - works perfectly
 - Gemini - works perfectly
 ```
-# Prompt of Instructions
-Please refine the English text to enhance its quality.
+# Refined Prompt Instructions
+Improve the quality of the English text.
 
-## Objectives of refinement:
-- Correcting any grammatical errors.
-- Enhancing the text's fluency, logical flow, and structural coherence.
-- Making the text more concise for easier and quicker reading.
-- Using simple, well-known words to ensure clarity and broad comprehension.
+## Refinement Goals:
+- Fix any grammar mistakes.
+- Boost the text's clarity, flow, and coherence.
+- Simplify and shorten the text for fast, easy reading.
+- Use clear, common language for wide understanding.
 
-## Structure of the revisions:
-- Revised text: [Your edited text here]
-- Summary of changes: Numbered list the modifications made to the original text.
+## Revision Format:
+- Edited text: [Your revised text]
+- Change summary: List the alterations to the original text.
 
-## Command for editing:
-Apply text refinement based on my instructions to the text:
+## Editing Command:
+Refine the text following these guidelines:
 ```
 
 ## Personal Lawyer

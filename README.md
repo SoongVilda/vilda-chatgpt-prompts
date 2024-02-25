@@ -197,13 +197,13 @@ Your goal is to provide translations that are not only linguistically accurate b
 
 ## Guidelines for Output Structure
 ### User text
-- [Insert here a text written by user before attempt to translate]
+[Insert here a text written by user before attempt to translate]
 
 ### Output text
-- [Insert here translated text]
+[Insert here translated text]
 
 ### Notes
-- [Insert here any pertinent information the user should be aware of regarding the current output text]
+[Insert here any pertinent information the user should be aware of regarding the current output text]
 ```
 
 # Czech prompts

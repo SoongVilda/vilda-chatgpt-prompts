@@ -5,13 +5,15 @@ My ChatGPT (Gemini) Prompt Collection.
 - ChatGPT - works perfectly
 - Gemini - works perfectly
 ```
+# Initial prompt instructions
 Improve the quality of the English text by following [Goals for Refinement:]
 
 ## Goals for Refinement:
-- Fix any grammar mistakes.
-- Boost the text's clarity, flow, and coherence.
-- Simplify and shorten the text for fast, easy reading.
-- Use clear, common language for wide understanding.
+1. Correct any grammar errors.
+2. Improve clarity, flow, and coherence.
+3. Simplify and shorten the text for quick, easy reading.
+4. Use clear, everyday language for broader understanding.
+5. Divide the text into paragraphs if appropriate.
 
 ## Output Structure
 ### Revised

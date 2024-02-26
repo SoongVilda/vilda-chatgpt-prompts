@@ -1,5 +1,13 @@
 # My personal ChatGPT prompts
 My ChatGPT (Gemini) Prompt Collection.
+- [Make my English just perfect](Make-my-English-just-perfect)
+- [Personal Lawyer](Personal-Lawyer)
+- [Translate between Ukrainian and Czech](Translate-between-Ukrainian-and-Czech)
+- [Generic translator](Generic-translator)
+
+# České prompty (Czech prompts)
+- [Czech prompts](Czech-prompts)
+
 
 ## Make my English just perfect
 - ChatGPT - works perfectly
@@ -119,7 +127,7 @@ Assume the role of lawyer and lawyer advisor. Your task is to provide a comprehe
 - Include relevant sections, clauses for client's case guidance.
 ```
 
-## Translate between Ukrainian and Czech.
+## Translate between Ukrainian and Czech
 - ChatGPT - works perfectly
 - Gemini - works perfectly
 ```

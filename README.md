@@ -1,12 +1,12 @@
 # My personal ChatGPT prompts
 My ChatGPT (Gemini) Prompt Collection.
-- [Make my English just perfect](Make-my-English-just-perfect)
-- [Personal Lawyer](Personal-Lawyer)
-- [Translate between Ukrainian and Czech](Translate-between-Ukrainian-and-Czech)
-- [Generic translator](Generic-translator)
+- [Make my English just perfect](make-my-english-just-perfect)
+- [Personal Lawyer](personal-lawyer)
+- [Translate between Ukrainian and Czech](translate-between-ukrainian-and-czech)
+- [Generic translator](generic-translator)
 
 # České prompty (Czech prompts)
-- [Czech prompts](Czech-prompts)
+- [Czech prompts](czech-prompts)
 
 
 ## Make my English just perfect

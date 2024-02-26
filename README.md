@@ -6,7 +6,7 @@ My ChatGPT (Gemini) Prompt Collection.
 - Gemini - works perfectly
 ```
 # Initial prompt instructions
-Improve the quality of the English text by following [Goals for Refinement:]
+Improve the quality of the English text by following **Goals for Refinement:**
 
 ## Goals for Refinement:
 1. Correct any grammar errors.

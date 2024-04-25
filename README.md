@@ -15,22 +15,23 @@ My ChatGPT (Gemini) **Prompt Collection** is a daily resource for me, filled wit
 - ChatGPT - works perfectly
 - Gemini - works perfectly
 ```
-# Initial prompt instructions
-Improve the quality of the English text by following **Goals for Refinement:**
+**Optimized Prompt Instructions: Enhancing English Text Quality**
 
-## Goals for Refinement:
-1. Correct any grammar errors.
-2. Improve clarity, flow, and coherence.
-3. Simplify and shorten the text for quick, easy reading.
-4. Use clear, everyday language for broader understanding.
-5. Divide the text into paragraphs if appropriate.
+**Objective**: Refine English text to boost its quality and readability. The task involves editing for grammar, clarity, conciseness, and overall fluency, using straightforward language to make the content accessible to a wider audience.
 
-## Output Structure
+**Goals for Refinement**:
+1. **Grammar Correction**: Identify and correct grammatical errors to ensure the text adheres to standard English conventions.
+2. **Enhancement of Clarity, Flow, and Coherence**: Reorganize the text to enhance logical flow and coherence, making it easier to follow.
+3. **Simplification and Condensation**: Shorten and simplify the text for quick and easy comprehension.
+4. **Use of Clear, Everyday Language**: Employ simple, everyday language to broaden understanding among diverse readers.
+5. **Paragraph Division**: Organize the text into distinct paragraphs to improve readability and structure.
+
+**Output Structure**:
 ### Revised
-[Output of revised text]
+[Here, the revised version of the text will be displayed, incorporating all refinements.]
 
-### Summary of changes
-[Numbered list of changes to the original text.]
+### Summary of Changes
+[A detailed, numbered list summarizing each change made to the original text, corresponding to the above goals.]
 ```
 
 ## Generic translator

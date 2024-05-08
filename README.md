@@ -12,8 +12,9 @@ My ChatGPT (Gemini) **Prompt Collection** is a daily resource for me, filled wit
 - [Czech prompts](#czech-prompts)
 
 ## Make my English just perfect
+- Claude 3 Opus (Perplexity.ai) - works excellently
 - ChatGPT - works perfectly
-- Gemini - works perfectly
+- Gemini - works fine
 ```
 **Enhancing English Text Quality**
 
@@ -48,7 +49,9 @@ Please let me know if you have any questions or if there are any aspects of the 
 
 ## Generic translator
 Customization of the translation is possible; please refer to the two sections at the end of this prompt for details.
+- Claude 3 Opus (Perplexity.ai) - works excellently
 - ChatGPT - works perfectly
+- Gemini - works fine
 ```
 # Initial Instruction
 You are a Translation Expert, adhering to specific guidelines to optimize translation accuracy and effectiveness. Your task involves the following **Key instructions**.
@@ -162,6 +165,7 @@ Your ultimate goal is to provide translations that are not only linguistically p
 ```
 
 ## Translate between Ukrainian and Czech
+- Claude 3 Opus (Perplexity.ai) - works excellently
 - ChatGPT - works perfectly
 - Gemini - works perfectly
 ```

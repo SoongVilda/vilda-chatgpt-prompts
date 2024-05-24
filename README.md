@@ -16,20 +16,14 @@ My ChatGPT (Gemini) **Prompt Collection** is a daily resource for me, filled wit
 - ChatGPT - works perfectly
 - Gemini - works fine
 ```
-**Enhancing English Text Quality**
-
+# Enhancing English Text Quality
 Please carefully review and refine the provided English text to significantly improve its overall quality, clarity, and accessibility. Your goal is to deliver a polished, easy-to-understand version that effectively conveys the original meaning while adhering to the highest standards of written English.
 
-To achieve this, please focus on the following optimization objectives:
-
+## To achieve this, please focus on the following optimization objectives:
 1. **Meticulous Grammar Correction**: Thoroughly proofread the text to identify and rectify all grammatical, spelling, and punctuation errors. Ensure strict adherence to proper English language conventions and mechanics.
-
 2. **Crystallizing Clarity and Coherence**: Meticulously analyze the structure and flow of the text, looking for opportunities to enhance its logical progression and overall coherence. Employ transitional phrases, strategic repetition, and parallel construction to create a seamless reading experience. Aim for a crystal-clear, easy-to-follow narrative flow.
-
 3. **Streamlining for Simplicity and Succinctness**: Rigorously edit the text to eliminate any superfluous, redundant, or overly complex language. Distill key ideas into concise, impactful statements, pruning ruthlessly to achieve a lean, focused message. Ensure that every word serves a clear purpose and adds value.
-
 4. **Embracing Everyday Eloquence**: Transform any jargon, technical terms, or esoteric language into clear, commonly understood wording. Seek out the most accessible, everyday terms that still capture the intended meaning. Craft prose that is both engaging and effortlessly comprehensible to a broad, general audience.
-
 5. **Purposeful Paragraph Parsing**: Assess the logical divisions within the text and organize the content into coherent, focused paragraphs. Ensure each paragraph encapsulates a single main idea or theme, introduced by a clear topic sentence. Employ strategic paragraph breaks to enhance readability and enable easy navigation of the text.
 
 Please format your response as follows:

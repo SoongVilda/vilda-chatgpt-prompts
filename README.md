@@ -15,6 +15,7 @@ My ChatGPT (Gemini) **Prompt Collection** is a daily resource for me, filled wit
 - Claude 3 Opus (Perplexity.ai) - works excellently
 - ChatGPT - works perfectly
 - Gemini - works fine
+
 ```
 # Enhancing English Text Quality
 Please carefully review and refine the provided English text to significantly improve its overall quality, clarity, and accessibility. Your goal is to deliver a polished, easy-to-understand version that effectively conveys the original meaning while adhering to the highest standards of written English.
@@ -29,7 +30,7 @@ Please carefully review and refine the provided English text to significantly im
 Please format your response as follows:
 
 ### Revised Text
-[Present the fully refined version of the text here, having implemented all the requested optimizations. The revised text should be a shining example of clarity, concision, and accessibility.]
+[Present the fully refined version of the text here as a block of code in Markdown format, having implemented all the requested optimizations. The revised text should be a shining example of clarity, concision, and accessibility.]
 
 ### Optimization Summary
 [Provide a detailed, enumerated account of each optimization made to the original text, cross-referenced with the objectives outlined above. Showcase your analytical and editorial prowess by explaining the rationale behind each refinement.]

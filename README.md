@@ -17,29 +17,31 @@ My ChatGPT (Gemini) **Prompt Collection** is a daily resource for me, filled wit
 - Gemini - works fine
 
 ```
-# Enhancing English Text Quality
-Please carefully review and refine the provided English text to significantly improve its overall quality, clarity, and accessibility. Your goal is to deliver a polished, easy-to-understand version that effectively conveys the original meaning while adhering to the highest standards of written English.
+Your task is to thoroughly review and refine the provided English text to elevate its overall quality, clarity, and accessibility. The goal is to produce a polished, engaging version that clearly conveys the original message while adhering to the highest standards of written English. 
 
-## To achieve this, please focus on the following optimization objectives:
-1. **Meticulous Grammar Correction**: Thoroughly proofread the text to identify and rectify all grammatical, spelling, and punctuation errors. Ensure strict adherence to proper English language conventions and mechanics.
-2. **Crystallizing Clarity and Coherence**: Meticulously analyze the structure and flow of the text, looking for opportunities to enhance its logical progression and overall coherence. Employ transitional phrases, strategic repetition, and parallel construction to create a seamless reading experience. Aim for a crystal-clear, easy-to-follow narrative flow.
-3. **Streamlining for Simplicity and Succinctness**: Rigorously edit the text to eliminate any superfluous, redundant, or overly complex language. Distill key ideas into concise, impactful statements, pruning ruthlessly to achieve a lean, focused message. Ensure that every word serves a clear purpose and adds value.
-4. **Embracing Everyday Eloquence**: Transform any jargon, technical terms, or esoteric language into clear, commonly understood wording. Seek out the most accessible, everyday terms that still capture the intended meaning. Craft prose that is both engaging and effortlessly comprehensible to a broad, general audience.
-5. **Purposeful Paragraph Parsing**: Assess the logical divisions within the text and organize the content into coherent, focused paragraphs. Ensure each paragraph encapsulates a single main idea or theme, introduced by a clear topic sentence. Employ strategic paragraph breaks to enhance readability and enable easy navigation of the text.
+### Key Objectives for Optimization:
 
-Please format your response as follows:
+1. **Precise Grammar and Language Corrections**: Carefully proofread the text to identify and correct any grammatical, spelling, and punctuation errors. Ensure that all language conventions and rules are rigorously followed, resulting in flawless English mechanics.
 
-### Revised Text
-[Present the fully refined version of the text here as a block of code in Markdown format, having implemented all the requested optimizations. The revised text should be a shining example of clarity, concision, and accessibility.]
+2. **Enhancing Clarity and Logical Flow**: Analyze the text's structure and flow to identify opportunities for improving its coherence and logical progression. Use transitional phrases, repetition where strategic, and parallel construction to create a smooth, easy-to-follow narrative. The aim is to ensure that the text is clear and logically connected from start to finish.
 
-### Optimization Summary
-[Provide a detailed, enumerated account of each optimization made to the original text, cross-referenced with the objectives outlined above. Showcase your analytical and editorial prowess by explaining the rationale behind each refinement.]
+3. **Simplifying and Streamlining Content**: Edit the text to remove any unnecessary, redundant, or overly complex language. Focus on distilling key ideas into concise, impactful statements. Every word should contribute to a clear, focused message, with no excess or filler.
 
-Before submitting your final response, carefully review the revised text through the lens of an attentive, detail-oriented reader. Confirm that it is free of any errors or awkward phrasing, and that it achieves the caliber of written English expected in professional, publishable content.
+4. **Making the Language Accessible and Engaging**: Replace any jargon, technical terms, or obscure language with clear, widely understood wording. The text should be engaging and easy to comprehend, using everyday language that captures the intended meaning without sacrificing depth.
 
-The optimized text should be a true pleasure to read—lucid, engaging, and readily understood by a diverse audience. Your refinements should bring out the inherent value and impact of the ideas, making them shine with newfound clarity and power.
+5. **Organizing for Readability**: Assess and improve the logical division of content into paragraphs. Each paragraph should present a single main idea, beginning with a clear topic sentence. Use paragraph breaks strategically to enhance readability and make the text easier to navigate.
 
-Please let me know if you have any questions or if there are any aspects of the original text that require further clarification. I greatly appreciate your diligence and linguistic expertise in elevating this piece to its fullest potential.
+### Final Submission:
+
+When revising the text, your final submission should include:
+
+1. **Revised Text**: Present the fully refined version of the text in Markdown format as code, ensuring it meets all the specified objectives. The revised text should exemplify clarity, conciseness, and accessibility.
+
+2. **Detailed Optimization Summary**: Provide a detailed breakdown of the revisions made, cross-referencing each optimization objective. Explain your editorial decisions, showcasing your attention to detail and understanding of effective writing.
+
+Before submitting, review the revised text as if you were the target audience, ensuring it is free from errors, flows naturally, and provides a pleasurable reading experience. The final text should be not only error-free but also compelling and easy to understand, bringing the ideas to life with clarity and precision.
+
+If you need further clarification on any aspect of the original text or the optimization process, please do not hesitate to ask. Your diligence and expertise in elevating this content are greatly appreciated.
 ```
 
 ## Generic translator

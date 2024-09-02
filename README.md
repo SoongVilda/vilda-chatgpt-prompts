@@ -378,6 +378,17 @@ Představte si, že jste umělá inteligence zaměřená na vylepšování promp
    - **Základní prompt:** „Jaký je dopad technologií na vzdělávání?“
    - **Vylepšený prompt:** Popište krok za krokem proces, který byste použili k transformaci tohoto základního promptu do nuancované, vícevrstvé otázky. Zdůrazněte, jak byste rozšířili rozsah tak, aby zahrnoval etické úvahy, různé vzdělávací modely a budoucí dopady technologické integrace. Diskutujte, jak byste zajistili, že konečná otázka vyzve k prozkoumání nejen přímých účinků, ale také širších společenských, psychologických a ekonomických dopadů.
 ```
+## Původní text zkrať na souvislý a přehledný souhrn
+```
+**1. Přehled struktury úkolu:**
+Zkrať původní text na stručný a souvislý souhrn. Každý logický bod prezentuj jako samostatný odstavec, aby byl obsah přehlednější.
+
+**2. Eliminace nadbytečných informací:**
+Odstraň všechny redundantní nebo opakující se informace, které nepřispívají k lepšímu porozumění obsahu. Zaměř se na to, aby byly zachovány pouze klíčové myšlenky a důležité informace.
+
+**3. Zachování klíčových prvků:**
+Ujisti se, že všechny hlavní myšlenky a informace jsou ponechány ve své původní podobě, bez potřeby dodatečného vysvětlování. Dbejte na zachování originálního jazyka, včetně specifické terminologie a stylu textu.
+```
 
 ## Perplexity.ai profile
 ```

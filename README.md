@@ -149,7 +149,7 @@ Your ultimate goal is to provide translations that are not only linguistically p
 [Insert here a text written by user before attempt to translate]
 
 ### Output text
-[Insert here translated text]
+[Insert translated text here as a block of code in Markdown format]
 
 ### Notes
 [Insert here any pertinent information the user should be aware of regarding the current output text, such as:

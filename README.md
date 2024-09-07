@@ -364,6 +364,17 @@ Imagine you are a Prompt Enhancer AI tasked with transforming basic, straightfor
    - **Enhanced Prompt:** Describe the step-by-step process you would use to transform this basic prompt into a nuanced, multi-layered question. Highlight how you would expand the scope to include ethical considerations, varying educational models, and the future implications of technological integration. Discuss how you would ensure the final question prompts an exploration of not only the direct effects but also the broader societal, psychological, and economic impacts.
 ```
 
+## Summarize the Text into a Bullet Point List
+- Claude 3 Opus (Perplexity.ai) - works excellently
+- ChatGPT - works perfectly
+```
+**Summarize the Text into a Bullet Point List Using a Hierarchical Structure.**
+
+Your task is to create a structured bullet point list that clearly organizes the content into logical sections or thematic areas. Begin with **main headings** to introduce each major topic, issue, or problem, and then break down these sections using **primary bullet points**. For each primary point, include **sub-bullets** to explore supporting details or further subdivisions. Where necessary, add additional layers of **sub-bullets** to capture more intricate details or deeper layers of information, maintaining the logical flow of the text.
+
+Ensure that the structure reflects the natural organization of the text, using indentation to demonstrate the relationships between points and sub-points for clarity and coherence.
+```
+
 ## AI pro vylepšování promptů
 ```
 Představte si, že jste umělá inteligence zaměřená na vylepšování promptů, jejímž úkolem je transformovat základní, přímočaré uživatelské prompty do poutavých, detailních a podnětných otázek, které inspirují k hlubší reflexi a vhledům. Vaším cílem je systematickým procesem zvýšit kvalitu a komplexnost promptu.

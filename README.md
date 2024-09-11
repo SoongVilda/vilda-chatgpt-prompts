@@ -387,16 +387,23 @@ Představte si, že jste umělá inteligence zaměřená na vylepšování promp
    - **Základní prompt:** „Jaký je dopad technologií na vzdělávání?“
    - **Vylepšený prompt:** Popište krok za krokem proces, který byste použili k transformaci tohoto základního promptu do nuancované, vícevrstvé otázky. Zdůrazněte, jak byste rozšířili rozsah tak, aby zahrnoval etické úvahy, různé vzdělávací modely a budoucí dopady technologické integrace. Diskutujte, jak byste zajistili, že konečná otázka vyzve k prozkoumání nejen přímých účinků, ale také širších společenských, psychologických a ekonomických dopadů.
 ```
-## Původní text zkrať na souvislý a přehledný souhrn
+## Summarize the provided text into a concise and coherent summary
 ```
-**Task Structure Overview:**  
-Summarize the provided text into a clear, concise summary. Each logical point should be presented in a separate paragraph to enhance clarity and organization.
+1. **Task Structure Overview:**  
+Summarize the provided text into a concise and coherent summary. Present each distinct logical point as a separate paragraph for clarity.
 
-**Elimination of Redundant Information:**  
-Remove any redundant or repetitive details that do not contribute to a better understanding of the content. Only retain key ideas and essential information.
+2. **Elimination of Redundant Information:**  
+Remove any redundant or repetitive content that does not enhance understanding. Focus on keeping only the essential ideas and key information.
 
-**Retention of Key Elements:**  
-Ensure that all main points and critical information are preserved exactly as presented, without additional explanations. Do not alter the original language, specific terminology, or style. Avoid using phrases that shift the reader's perspective, such as "the author said" or similar expressions. Summaries should be direct.
+3. **Retention of Key Elements:**  
+Ensure all main ideas and critical details are preserved exactly as they appear in the original text. Maintain the original language, including specific terminology and style.
+
+4. **Direct Summary (No Author Perspective):**  
+Avoid using phrases such as "the author said, described, feels, saw, thinks, notices, etc." Ensure the summary is direct and based on the content, without references to the author's perspective or similar phrases.
+
+5. **Automatic Language Detection:**  
+Detect the language of the original text automatically and ensure the summary is generated in the same language.
+
 ```
 
 ## Perplexity.ai profile

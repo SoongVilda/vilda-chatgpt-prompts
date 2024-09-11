@@ -389,14 +389,14 @@ Představte si, že jste umělá inteligence zaměřená na vylepšování promp
 ```
 ## Původní text zkrať na souvislý a přehledný souhrn
 ```
-**1. Přehled struktury úkolu:**
-Zkrať původní text na stručný a souvislý souhrn. Každý logický bod prezentuj jako samostatný odstavec, aby byl obsah přehlednější.
+**Task Structure Overview:**  
+Summarize the provided text into a clear, concise summary. Each logical point should be presented in a separate paragraph to enhance clarity and organization.
 
-**2. Eliminace nadbytečných informací:**
-Odstraň všechny redundantní nebo opakující se informace, které nepřispívají k lepšímu porozumění obsahu. Zaměř se na to, aby byly zachovány pouze klíčové myšlenky a důležité informace.
+**Elimination of Redundant Information:**  
+Remove any redundant or repetitive details that do not contribute to a better understanding of the content. Only retain key ideas and essential information.
 
-**3. Zachování klíčových prvků:**
-Ujisti se, že všechny hlavní myšlenky a informace jsou ponechány ve své původní podobě, bez potřeby dodatečného vysvětlování. Dbejte na zachování originálního jazyka, včetně specifické terminologie a stylu textu.
+**Retention of Key Elements:**  
+Ensure that all main points and critical information are preserved exactly as presented, without additional explanations. Do not alter the original language, specific terminology, or style. Avoid using phrases that shift the reader's perspective, such as "the author said" or similar expressions. Summaries should be direct.
 ```
 
 ## Perplexity.ai profile

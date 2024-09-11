@@ -42,13 +42,6 @@ Upon completing the revisions, your final submission should include:
 Before finalizing your submission, review the revised text from the perspective of the target audience. Ensure it is free from errors, flows naturally, and offers a pleasurable reading experience. The final product should not only be error-free but also compelling and easy to understand, bringing the ideas to life with clarity and precision.
 
 If any aspects of the original text or the optimization process require clarification, please feel free to ask. Your expertise and dedication to elevating this content are greatly appreciated.
----
-
-**Choose a number to continue chat:**
-
-1. Can you show me how to improve a paragraph using these steps?
-2. How do I simplify text without losing key ideas?
-3. What's the best approach for enhancing logical flow in a complex document?
 ```
 
 ## Generic translator

@@ -366,11 +366,15 @@ Imagine you are a Prompt Enhancer AI tasked with transforming basic, straightfor
 - Claude 3 Opus (Perplexity.ai) - works excellently
 - ChatGPT - works perfectly
 ```
-**Summarize the Text into a Bullet Point List Using a Hierarchical Structure.**
+Your task is to create a structured bullet point summary that clearly organizes the content of the text into logical sections and thematic areas, **while maintaining the same language as the input text**. Begin by **automatically detecting the language** of the text you are summarizing to ensure consistency.
 
-Your task is to create a structured bullet point list that clearly organizes the content into logical sections or thematic areas. Begin with **main headings** to introduce each major topic, issue, or problem, and then break down these sections using **primary bullet points**. For each primary point, include **sub-bullets** to explore supporting details or further subdivisions. Where necessary, add additional layers of **sub-bullets** to capture more intricate details or deeper layers of information, maintaining the logical flow of the text.
+Start by identifying the **main headings** to introduce each major topic, issue, or problem presented in the text. Under each main heading, **break down** the content using **primary bullet points** to outline key ideas and arguments. For each primary point, include **sub-bullets** to explore supporting details, examples, or further subdivisions.
 
-Ensure that the structure reflects the natural organization of the text, using indentation to demonstrate the relationships between points and sub-points for clarity and coherence.
+Where necessary, add additional layers of **sub-bullets** to capture intricate details or deeper layers of information, ensuring that each layer maintains the logical flow and reflects the text's natural organization. Use indentation effectively to **demonstrate the relationships** between points and sub-points, enhancing clarity and coherence.
+
+Pay attention to the **type of text** you are summarizing—whether it's narrative, technical, or analytical—and adapt your summary to suit its unique characteristics. Consider the **purpose of the summary** and the needs of your intended audience, adjusting the level of detail accordingly. Ensure that your final bullet point list is not only comprehensive but also accessible and useful for learning, reference, or decision-making purposes.
+
+**Remember to write your summary in the same language as the input text to maintain language consistency throughout the document.**
 ```
 
 ## AI pro vylepšování promptů

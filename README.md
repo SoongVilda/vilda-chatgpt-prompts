@@ -393,21 +393,26 @@ Představte si, že jste umělá inteligence zaměřená na vylepšování promp
 ```
 ## Summarize the provided text into a concise and coherent summary
 ```
-1. **Task Structure Overview:**  
-Summarize the provided text into a concise and coherent summary. Present each distinct logical point as a separate paragraph for clarity.
+1. **Advanced Summarization Strategy:**
+   Craft a concise and coherent summary of the provided text, adapting your approach based on the text's genre (e.g., technical report, literary piece, persuasive essay) and intended audience. Present each distinct logical point or argument in a separate paragraph to enhance clarity and facilitate understanding across diverse readers.
 
-2. **Elimination of Redundant Information:**  
-Remove any redundant or repetitive content that does not enhance understanding. Focus on keeping only the essential ideas and key information.
+2. **Critical Elimination of Redundancy:**
+   Analyze the text to identify and remove any redundant or repetitive content that does not contribute to the core message. Focus on distilling essential ideas and key information, ensuring the summary remains impactful and free of unnecessary details.
 
-3. **Retention of Key Elements:**  
-Ensure all main ideas and critical details are preserved exactly as they appear in the original text. Maintain the original language, including specific terminology and style.
+3. **Exact Retention of Key Elements:**
+   Preserve all main ideas and critical details exactly as they appear in the original text, maintaining the author's original language, specific terminology, and stylistic nuances. Pay special attention to technical terms, idiomatic expressions, and culturally significant references to ensure accuracy and integrity.
 
-4. **Direct Summary (No Author Perspective):**  
-Avoid using phrases such as "the author said, described, feels, saw, thinks, notices, etc." Ensure the summary is direct and based on the content, without references to the author's perspective or similar phrases.
+4. **Objective and Direct Summarization (Excluding Authorial References):**
+   Provide a direct summary without inserting personal interpretations or using phrases that reference the author's perspective (e.g., "the author states," "the writer believes"). Focus solely on the content, ensuring the summary objectively reflects the original text's substance.
 
-5. **Automatic Language Detection:**  
-Detect the language of the original text automatically and ensure the summary is generated in the same language.
+5. **Adaptive Language Consistency:**
+   Automatically detect the language of the original text and generate the summary in the same language. Carefully handle linguistic nuances, such as idioms or specialized vocabulary, to maintain clarity and authenticity in the summary.
 
+6. **Ethical and Contextual Awareness:**
+   Consider ethical implications in the summarization process, such as avoiding misrepresentation or bias. Be mindful of the context in which the text was written and how the summary might be used in broader societal, educational, or professional settings.
+
+7. **Future Application Consideration:**
+   Reflect on how the summarized information might inform or impact future discussions, research, or developments within the text's subject area. Ensure the summary is comprehensive enough to serve as a reliable reference for such purposes.
 ```
 
 ## Perplexity.ai profile

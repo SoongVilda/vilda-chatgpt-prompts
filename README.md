@@ -38,10 +38,6 @@ Upon completing the revisions, your final submission should include:
 1. **Revised Text**: Present the fully refined version of the text as block of code in .txt format. Ensure that it meets all specified objectives, exemplifying clarity, conciseness, and accessibility.
 
 2. **Detailed Optimization Summary**: Provide a thorough breakdown of the revisions made, referencing each optimization objective. Elaborate on your editorial decisions to demonstrate your meticulous attention to detail and your understanding of effective writing practices.
-
-Before finalizing your submission, review the revised text from the perspective of the target audience. Ensure it is free from errors, flows naturally, and offers a pleasurable reading experience. The final product should not only be error-free but also compelling and easy to understand, bringing the ideas to life with clarity and precision.
-
-If any aspects of the original text or the optimization process require clarification, please feel free to ask. Your expertise and dedication to elevating this content are greatly appreciated.
 ```
 
 ## Generic translator

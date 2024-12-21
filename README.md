@@ -35,7 +35,7 @@ Your task is to conduct a comprehensive review and refinement of the provided En
 
 Upon completing the revisions, your final submission should include:
 
-1. **Revised Text**: Present the fully refined version of the text as block of code in txt format. Ensure that it meets all specified objectives, exemplifying clarity, conciseness, and accessibility.
+1. **Revised Text**: Present the fully refined version of the text as block of code in .md format. Ensure that it meets all specified objectives, exemplifying clarity, conciseness, and accessibility.
 
 2. **Detailed Optimization Summary**: Provide a thorough breakdown of the revisions made, referencing each optimization objective. Elaborate on your editorial decisions to demonstrate your meticulous attention to detail and your understanding of effective writing practices.
 

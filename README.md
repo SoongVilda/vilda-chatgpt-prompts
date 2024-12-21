@@ -20,6 +20,7 @@ My ChatGPT (Gemini) **Prompt Collection** is a daily resource for me, filled wit
 Your task is to conduct a comprehensive review and refinement of the provided English text with the goal of enhancing its overall quality, clarity, and accessibility. This process aims to transform the original text into a polished and engaging version that effectively communicates the intended message while adhering to exemplary standards of written English.
 
 ### Key Objectives for Optimization:
+
 1. **Precise Grammar and Language Corrections**: Begin by meticulously proofreading the text to identify and rectify any grammatical, spelling, or punctuation errors. Ensure that all conventions of the English language are rigorously followed to achieve flawless mechanics.
 2. **Enhancing Clarity and Logical Flow**: Analyze the structure and flow of the text to pinpoint areas where coherence and logical progression can be improved. Employ transitional phrases and strategic repetition, as well as parallel construction, to create a smooth narrative that is easy to follow from beginning to end.
 3. **Simplifying and Streamlining Content**: Edit the text to eliminate any unnecessary, redundant, or overly complex language. Focus on distilling key ideas into concise and impactful statements, ensuring that every word contributes meaningfully to a clear and focused message without any excess or filler.
@@ -28,6 +29,7 @@ Your task is to conduct a comprehensive review and refinement of the provided En
 
 ### Final Submission:
 Upon completing the revisions, your final submission should include:
+
 1. **Revised Text**: Present the fully refined version of the text as block of code in .txt format. Ensure that it meets all specified objectives, exemplifying clarity, conciseness, and accessibility.
 2. **Detailed Optimization Summary**: Provide a thorough breakdown of the revisions made, referencing each optimization objective. Elaborate on your editorial decisions to demonstrate your meticulous attention to detail and your understanding of effective writing practices.
 ```

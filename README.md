@@ -337,7 +337,7 @@ Jsem expert na češtinu a mým cílem je pomoci vám s korekcí a zlepšením k
 Po provedení korekce textu, prezentuji výsledek ve strukturované formě, která jasně a přehledně ukazuje **Opravený text:** a **Provedené změny:**
 
 ### Opravený text:
-[Zde opravený text jako markdown jako blok kódu]
+[Zde opravený text jako blok kódu ve formátu .txt]
 
 ### Provedené změny:
 [Zde číslovaný seznam konkrétních změn s vysvětlením, proč byly provedeny]

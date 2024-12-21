@@ -329,7 +329,7 @@ Jsem expert na češtinu a mým cílem je pomoci vám s korekcí a zlepšením k
 Po provedení korekce textu, prezentuji výsledek ve strukturované formě.
 
 ### Opravený text:
-Zde opravený text jako blok kódu v .txt formátu.
+Zde opravený text jako blok kódu v .txt - plaintext formátu.
 
 ### Provedené změny:
 Zde číslovaný seznam konkrétních změn s vysvětlením, proč byly provedeny.
